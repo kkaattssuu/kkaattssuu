@@ -42,7 +42,7 @@ Currently
 
 ---
 
-## 📬 Let's connect
+## Let's connect
 
 LinkedIn - https://www.linkedin.com/in/shamil-babashov-164b10350/
 Telegram - https://t.me/kkatsuu
