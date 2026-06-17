@@ -36,9 +36,9 @@ Featured Labs
 
 Currently
 
-- 🎓 Third-year Engineering student (graduating 2026)
-- 📚 Studying for **CompTIA Security+**
-- 🤖 Exploring AI-assisted threat detection and SOC automation
+- Third-year Engineering student (graduating 2026)
+- Studying for **CompTIA Security+**
+- Exploring AI-assisted threat detection and SOC automation
 
 ---
 
